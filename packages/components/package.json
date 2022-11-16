@@ -1,7 +1,7 @@
 {
   "name": "@yd/components",
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "dependencies": {
     "@headlessui/react": "^1.6.6",
     "@heroicons/react": "^1.0.6",
-    "@yd/hooks": "^1.0.1"
+    "@yd/hooks": "^1.0.2"
   },
   "gitHead": "ad08ce354ff265d49c9ba375536dfd6259fe0cfd"
 }
