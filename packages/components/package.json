@@ -14,5 +14,6 @@
     "@headlessui/react": "^1.6.6",
     "@heroicons/react": "^1.0.6",
     "@yd/hooks": "^1.0.1"
-  }
+  },
+  "gitHead": "c6f1b7373da70f6e3912aedf2a884fd5fe02e840"
 }
